@@ -13,9 +13,9 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  final String apikey = '40ec72ec892fa9f72c2df7dfe11183fe';
+  final String apikey = 'API KEY';
   final String readaccesstoken =
-      'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0MGVjNzJlYzg5MmZhOWY3MmMyZGY3ZGZlMTExODNmZSIsInN1YiI6IjY0YzNkNmM0YzkwNDRjMDBjNzZjMmJjZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.RJi9RDdvr9onwAdclsy4ic7-j8L2RaV1zI5h-7u6xyA';
+      'readaccesstoken';
   List trendingmovies = [];
   List topratedmovies = [];
   List tv = [];
