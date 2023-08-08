@@ -1,5 +1,5 @@
 # Book_Movie_in_flutter (Steps)
-step 0: For Authentication I have used firebase as you can see in below screenshot
+step 0: For Authentication I have used firebase as you can see in below screenshot\n
 ![auth](https://github.com/prakhar-p/Book_Movie_in_flutter/assets/74608125/094752de-1252-476d-a435-625e7751bb6f)
 
 step 1: Login(1st video) or creat account(2nd video)
