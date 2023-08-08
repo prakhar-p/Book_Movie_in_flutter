@@ -53,10 +53,6 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
         backgroundColor: Colors.black,
-        /*appBar: AppBar(
-          title: modified_text(text: 'Flutter Movie App ❤️', color: Colors.white,size: 15,),
-          backgroundColor: Colors.transparent,
-        ),*/
         appBar: AppBar(
             backgroundColor: Colors.black,
             title: Row(
