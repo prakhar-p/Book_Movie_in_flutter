@@ -12,8 +12,7 @@
                 -> TV Shows
                 -> Recent Viewed Movie
           
-### step 3: On clicking any movie you will directed toward Detail Page with Booking(movie) feature(for that refer to Video 1) and on     
-  parallely it will add in Recent Viewed Movie List (for that refer to video 2 as my output)
+### step 3: On clicking any movie you will directed toward Detail Page with Booking(movie) feature(for that refer to Video 1) and on  parallely it will add in Recent Viewed Movie List (for that refer to video 2 as my output)
         
 ### step 4: Then click on Book Now the you will directed toward Booking Page with multiple feature like date selection, Time selection 
   and you can also see your seat in theatre map you booked for booking there is button name Book
